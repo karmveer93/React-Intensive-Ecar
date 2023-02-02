@@ -1,0 +1,12 @@
+.container-login{
+    margin-top: 50px;
+    width: 50%;
+    align-items: center;
+    justify-content: space-around;
+    border: 3px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}

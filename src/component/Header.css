@@ -1,0 +1,19 @@
+.icon-container{
+    display: flex;
+    align-items: center;
+}
+.flex-item{
+    display: flex;
+    justify-content: end;
+    width: 100%;
+}
+.icon-span{
+    display: flex;
+}
+/* .header-main{
+    display: flex;
+    justify-content: end;
+    position: fixed;
+    width: 100%;
+    top: 0;
+} */

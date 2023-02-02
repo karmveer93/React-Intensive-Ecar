@@ -1,0 +1,16 @@
+.cart-item-div{
+    margin: 12px 36px;
+    padding: 12px;
+    border: 1px solid lightblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+p{
+    font-size: medium;
+}
+img{
+    width: 120px;
+    height: 160px;
+}
